@@ -132,4 +132,7 @@ Destination: 10.0.0.4 (VM1's private IP)
 
 Port: 8080
 
+![Presets](Screenshots/Presets.PNG)
+
+
 Click Check
