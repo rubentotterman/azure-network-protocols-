@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
-
 # 🔐 Azure NSG Project: Securing and Inspecting Traffic Between Virtual Machines
 
 This project demonstrates how to set up two Azure Virtual Machines (VM1 and VM2) in a secure virtual network, use Network Security Groups (NSGs) to control traffic between them, and inspect network traffic using Azure Network Watcher — all through the **Azure Portal**.
