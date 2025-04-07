@@ -132,7 +132,16 @@ Destination: 10.0.0.4 (VM1's private IP)
 
 Port: 8080
 
-![Presets](Screenshots/Presets.png)
-
-
 Click Check
+
+![Presets](Screenshots/Presets.png)
+![vms](Screenshots/vms.png)
+![Security Groups](Screenshots/securitygroups.png)
+![Allow SSH](Screenshots/allow-ssh.png)
+![Allow Connection](Screenshots/allow-connection.png)
+![Associate](Screenshots/associate.png)
+![SSH Into](Screenshots/ssh-into.png)
+![Server](Screenshots/server.png)
+![Curl VM1](Screenshots/curlvm1.png)
+
+
